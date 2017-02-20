@@ -1,0 +1,40 @@
+# Equivalences SAMPA vers API (caractères du français, adapté au format de Lexique.org)
+# Provenant de Wikipédia : https://fr.wikipedia.org/wiki/SAMPA
+# Les lignes commençant par '#' ne sont pas prises en compte
+#
+p=>p
+b=>b
+t=>t
+d=>d
+k=>k
+g=>g
+f=>f
+v=>v
+s=>s
+z=>z
+S=>ʃ
+Z=>ʒ
+j=>j
+m=>m
+n=>n
+J=>ɲ
+G=>ŋ
+l=>l
+R=>ʁ
+w=>w
+8=>ɥ
+i=>i
+e=>e
+E=>ɛ
+a=>a
+O=>ɔ
+o=>o
+u=>u
+y=>y
+2=>ø
+1=>œ̃
+°=>ə
+5=>ɛ̃
+@=>ə
+§=>ɔ̃
+9~=>œ̃

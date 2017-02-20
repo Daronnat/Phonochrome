@@ -1,0 +1,185 @@
+body{
+margin:0;
+padding:0;
+font-size:13px;
+font-family:Verdana;
+background-color:#232323;
+}
+
+.clear:after{
+content:".";
+display:block;
+height:0;
+clear:both;
+visibility:hidden;
+line-height:0;
+}
+
+.clear{
+display:block;
+clear:both;
+}
+
+a{
+outline:none;
+text-decoration:none;
+}
+
+.fl_left{
+float:left;
+}
+
+.fl_right{
+float:right;
+}
+
+#texte_a_coloriser{
+width:100%;
+height:20em;
+resize:none;
+}
+
+#warning{
+color:#c63e03;
+}
+
+#warning_vide{
+color:red;
+}
+
+#resultats{
+background-color:black;
+color:grey;
+font-size:150%;
+line-height:25px;
+}
+
+#link_under_white{
+color:blue;
+text-decoration:underline;
+}
+
+.row1,.row1 a{
+color:#C0BAB6;
+background-color:#333333;
+}
+
+.row2{
+background-color:#FFFFFF;
+}
+.row2 a
+{color:#FF9900; background-color:#FFFFFF;
+}
+
+.row3{
+color:#989898;
+background-color:#333333;
+}
+
+.row3 a{
+color:#FF9900; background-color:#333333;
+}
+
+.row4,.row4 a{
+color:#919191;
+background-color:#232323;
+}
+
+#header,#container,#footer,#copyright{
+display:block;
+width:960px;
+margin:0 auto;
+}
+
+nav ul{
+margin:0;
+padding:0;
+list-style:none;
+}
+
+h1, h2, h3, h4, h5, h6{
+margin:0;
+padding:0;
+font-weight:bold;
+font-style:normal;
+line-height:normal;
+}
+
+.one_quarter{
+width:210px;
+}
+
+#header #hgroup{
+float:left;
+padding:10px 0;
+}
+
+#header #hgroup h1{
+font-weight:normal;
+text-transform:none;
+}
+
+#header #hgroup h1{
+font-size:40px;
+text-align:center;
+}
+
+#header nav{
+display:block; width:100%; margin:0; padding:20px 0; border-top:1px solid #DEDEDE; clear:both;
+}
+
+#header nav li{
+display:inline; margin-right:25px; text-transform:uppercase;
+}
+
+#header nav li.last{margin-right:0;
+}
+
+#header nav li a:hover{
+color:#FF9900; background-color:#333333;
+}
+
+#container{
+padding:15px 0;
+}
+
+#container #homepage{
+display:block;
+width:100%;
+line-height:1.6em;
+}
+
+#footer{
+padding:30px 0;
+font-size:12px;
+line-height:1.4em;
+}
+
+#footer section h2.title{
+margin:0 0 25px 0;
+padding:0;
+color:#FFFFFF;
+background-color:#333333;
+font-size:12px;
+font-weight:bold;
+text-transform:uppercase;
+}
+
+#footer section nav li{
+margin:0 0 5px 0;
+padding:0 0 5px 0;
+border-bottom:1px solid #555555;
+}
+
+#footer section nav li.last{
+margin:0;
+}
+
+#copyright{
+padding:20px 0;
+}
+
+#copyright p{
+margin:0;
+padding: 0;
+}
