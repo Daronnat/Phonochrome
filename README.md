@@ -1,7 +1,6 @@
 Contact : sylvain.daronnat@hotmail.fr
 
-# Phonochrome
-Related to the Kinephone project : http://kinephones.u-grenoble3.fr/#/en_gb/1/table
+# Phonochrome : Colorizing graphemes using a g2p WFST based software
 Phonochrome aims to create the best set of contrasted colors for the maximum number of languages.
 For more informations please read the PDF file(s) located in this depository (in french).
 
