@@ -5,3 +5,9 @@ For more informations please read the PDF file(s) located in this depository (in
 
 Creators : Sylvain Daronnat & Elena Melnikova
 - Grenoble Alpes University - Master IdL
+
+This software requiries the following dependencies :
+- Phonetisaurus (openfst 1.6.1 branch)
+- Google Ngram Library (1.3+)
+- OpenFST (1.6+)
+- Webcolor and Colormath modules for Python3
