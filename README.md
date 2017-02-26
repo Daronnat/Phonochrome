@@ -1,6 +1,7 @@
 Contact : sylvain.daronnat@hotmail.fr
-
-# Phonochrome : Colorizing graphemes using a g2p WFST based software
+Current Version : 1.0
+# Phonochrome :
+Colorizing graphemes using a g2p WFST based software.
 Phonochrome aims to create the best set of contrasted colors for the maximum number of languages.
 For more informations please read the PDF file(s) located in this depository (in french).
 
