@@ -23,7 +23,7 @@ Most of the instructions, manuals and scripts are in french. If you need any inf
 
 ## Authors
 
-* **Sylvain Daronnat** - [Sylvain Daronnat's github](https://github.com/Daronnat)
+* **Sylvain Daronnat** - [Sylvain Daronnat's github](https://github.com/daronnat)
 * **Elena Melnikova**
 
 ## License
